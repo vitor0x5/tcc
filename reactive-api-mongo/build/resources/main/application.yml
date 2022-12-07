@@ -1,0 +1,7 @@
+spring.data.mongodb:
+  database: admin
+  username: admin
+  password: password
+
+url:
+  sponsors.api: "http://localhost:8081/sponsor/"
